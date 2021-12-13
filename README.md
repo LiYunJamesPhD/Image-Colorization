@@ -34,8 +34,7 @@ Install all prerequisites before running any scripts.
 
 Put your data with color images in any places you prefer. I recommand you can put the data in the image-coloring directory.
 
-Note: (1) you do not need to split data into training and val data since the script uses a default ratio to generate two datasets automatically during training. You can change the ratio value via the --splitPercent argument. (2) The scripts only work on training, validation, and test data with jpg images. Please convert all images to the jpg format before you start running model training and model inference.
-
+Note: (1) you do not need to split data into training and val data since the script uses a default ratio to generate two datasets automatically during training. You can change the ratio value via the --splitPercent argument. (2) The scripts only work on training, validation, and test data with jpg images. Please convert all images to the jpg format before you start running model training and model inference. (3) An example dataset: https://drive.google.com/file/d/15jprd8VTdtIQeEtQj6wbRx6seM8j0Rx5/view
 
 Model Training:
 
